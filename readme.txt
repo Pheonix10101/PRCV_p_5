@@ -30,7 +30,7 @@ lenet_5.ipynb(extension)
 
 extension_gabor.ipynb(extension)
 
-
+VideoPred.ipynb(extension)
 
 5.Instructions for running executables.
 use google colab
